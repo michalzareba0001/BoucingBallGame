@@ -19,6 +19,28 @@
   bottom: 1rem;
   margin-left: 1rem;
 }
+#gameboard #floor3 {
+  width: 25%;
+  height: 1rem;
+  background-color: rgb(16, 148, 16);
+  position: absolute;
+  bottom: 600px;
+  right: 100px;
+}
+#gameboard #floor2 {
+  width: 40%;
+  height: 1rem;
+  background-color: rgb(16, 148, 16);
+  position: absolute;
+  bottom: 400px;
+}
+#gameboard #floor1 {
+  width: 50%;
+  height: 1rem;
+  background-color: rgb(16, 148, 16);
+  position: absolute;
+  bottom: 200px;
+}
 #gameboard #floor {
   width: 100%;
   height: 1rem;
